@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1640151228 source:d:\c projects\ropasci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+
+1640152783 source:d:\c projects\ropasci\resources.rc
+
+1645066505 source:e:\c projects\ropasci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"ropasci.h"
+
+1643769367 source:e:\c projects\ropasci\resources.rc
+
+1644889430 e:\c projects\ropasci\pyrecc.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1645001354 source:e:\c projects\ropasci\border.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1644905523 source:e:\c projects\ropasci\customfunction.c
+
+1645065834 e:\c projects\ropasci\ropasci.h
+	<stdio.h>
+
+1645065496 source:e:\c projects\ropasci\ropasci_h.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"ropasci.h"
+
+1644907892 source:e:\c projects\ropasci\loadingscreen.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1645001350 source:e:\c projects\ropasci\rpselement.c
+	<stdio.h>
+	"ropasci.h"
+
+1645065855 source:e:\c projects\ropasci\bgart.c
+	<stdio.h>
+	<conio.h>
+	"ropasci.h"
+
+1645065855 source:e:\projects\c_projects\ropasci\bgart.c
+	<stdio.h>
+	<conio.h>
+	"ropasci.h"
+
+1645065834 e:\projects\c_projects\ropasci\ropasci.h
+	<stdio.h>
+
+1645001354 source:e:\projects\c_projects\ropasci\border.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1644907892 source:e:\projects\c_projects\ropasci\loadingscreen.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1643769367 source:e:\projects\c_projects\ropasci\resources.rc
+
+1645065496 source:e:\projects\c_projects\ropasci\ropasci_h.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"ropasci.h"
+
+1645001350 source:e:\projects\c_projects\ropasci\rpselement.c
+	<stdio.h>
+	"ropasci.h"
+
+1645590674 source:e:\projects\c_projects\ropasci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"ropasci.h"
+
+1647595164 source:e:\projects\c\ropasci\bgart.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1648089875 e:\projects\c\ropasci\ropasci.h
+	<stdio.h>
+
+1647595727 source:e:\projects\c\ropasci\border.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1647595016 source:e:\projects\c\ropasci\loadingscreen.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1648089879 source:e:\projects\c\ropasci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"ropasci.h"
+
+1643769367 source:e:\projects\c\ropasci\resources.rc
+
+1647592378 source:e:\projects\c\ropasci\ropasci_h.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"ropasci.h"
+
+1647953668 source:e:\projects\c\ropasci\rpselement.c
+	<stdio.h>
+	"ropasci.h"
+
+1648089913 source:e:\projects\c\ropasci\file.c
+	<sys/stat.h>
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<errno.h>
+	"ropasci.h"
+
+1647595164 source:e:\workspace\c\ropasci\bgart.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1648200798 e:\workspace\c\ropasci\ropasci.h
+	<stdio.h>
+
+1647595727 source:e:\workspace\c\ropasci\border.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1647595016 source:e:\workspace\c\ropasci\loadingscreen.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1643769367 source:e:\workspace\c\ropasci\resources.rc
+
+1647592378 source:e:\workspace\c\ropasci\ropasci_h.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"ropasci.h"
+
+1647953668 source:e:\workspace\c\ropasci\rpselement.c
+	<stdio.h>
+	"ropasci.h"
+
+1647595166 source:e:\ropasci\bgart.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1649343996 e:\ropasci\ropasci.h
+	<stdio.h>
+
+1647595728 source:e:\ropasci\border.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1648200794 source:e:\ropasci\file.c
+	<sys/stat.h>
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<errno.h>
+	"ropasci.h"
+
+1647595018 source:e:\ropasci\loadingscreen.c
+	<stdio.h>
+	<stdlib.h>
+	"ropasci.h"
+
+1648200468 source:e:\ropasci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"ropasci.h"
+
+1643769368 source:e:\ropasci\resources.rc
+
+1647592380 source:e:\ropasci\ropasci_h.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"ropasci.h"
+
+1647953670 source:e:\ropasci\rpselement.c
+	<stdio.h>
+	"ropasci.h"
+
