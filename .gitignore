@@ -1,3 +1,6 @@
-ARCHIVES
-bin
-obj
+resources.rc
+*.o
+output
+output.exe
+RPS.txt
+border.txt
