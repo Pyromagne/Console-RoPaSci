@@ -1,6 +1,7 @@
 ARCHIVES/
 bin/
 obj/
+.vscode/
 resources.rc
 *.o
 output

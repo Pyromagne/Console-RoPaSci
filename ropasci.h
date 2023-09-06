@@ -1,4 +1,4 @@
-//RoPaSci � 2022 by Pyromagne is licensed under CC BY-NC-ND 4.0
+//RoPaSci © 2023 by Pyromagne is licensed under MIT License.
 #ifndef ROPASCI_H_INCLUDED
 #define ROPASCI_H_INCLUDED
 //-----------------------------------------------------------------------------

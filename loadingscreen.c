@@ -1,3 +1,4 @@
+//RoPaSci © 2022 by Pyromagne is licensed under MIT License.
 #include <stdio.h>
 #include <stdlib.h>
 #include "ropasci.h"
