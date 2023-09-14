@@ -1,6 +1,6 @@
 # CLI Game: RoPaSci 
 
-RoPaSci is a command-line interface game developed by Pyromagne. The game is licensed under MIT License.
+RoPaSci is a terminal game developed by Pyromagne. The game is licensed under MIT License.
 
 ## How to Play 
 
